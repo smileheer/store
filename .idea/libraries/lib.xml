@@ -2,9 +2,16 @@
   <library name="lib">
     <CLASSES>
       <root url="file://K:/黑马28期/02 Javaweb实战项目/day18-实战1(user相关)/resource/lib" />
+      <root url="file://K:/黑马28期/02 Javaweb实战项目/day19-实战2/resource/jar/json" />
+      <root url="jar://K:/黑马28期/02 Javaweb实战项目/day19-实战2/resource/jar/ehcache的lib包/ehcache-2.10.1.jar!/" />
+      <root url="jar://K:/黑马28期/02 Javaweb实战项目/day19-实战2/resource/jar/ehcache的lib包/log4j-1.2.16.jar!/" />
+      <root url="jar://K:/黑马28期/02 Javaweb实战项目/day19-实战2/resource/jar/ehcache的lib包/slf4j-api-1.7.7.jar!/" />
+      <root url="jar://K:/黑马28期/02 Javaweb实战项目/day19-实战2/resource/jar/ehcache的lib包/slf4j-jdk14-1.7.7.jar!/" />
+      <root url="jar://K:/黑马28期/02 Javaweb实战项目/day19-实战2/resource/jar/ehcache的lib包/slf4j-log4j12-1.7.2.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
     <jarDirectory url="file://K:/黑马28期/02 Javaweb实战项目/day18-实战1(user相关)/resource/lib" recursive="false" />
+    <jarDirectory url="file://K:/黑马28期/02 Javaweb实战项目/day19-实战2/resource/jar/json" recursive="false" />
   </library>
 </component>

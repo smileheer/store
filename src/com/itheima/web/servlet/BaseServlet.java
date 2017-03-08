@@ -46,7 +46,7 @@ public class BaseServlet extends HttpServlet {
         }
     }
 
-    public String index(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+    public String index(HttpServletRequest request, HttpServletResponse response) throws Exception {
     return null;
     }
 
